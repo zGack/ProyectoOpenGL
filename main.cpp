@@ -56,10 +56,9 @@ public:
 
                     glPopMatrix();
                      
-                    // MOLINO 1 DEVIL
+                    // MOLINO 1 DEVIL -> Malvado
                     glPushMatrix();
 
-                        //mill.DibujarMill(0.0f, 0.33f, 0.0f);
                         devil.DibujarDevil(0.0f, 0.33f, 0.0f);
                     
                     glPopMatrix();
